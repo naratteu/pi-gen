@@ -19,7 +19,7 @@ piwiz
 # ffmpeg
 # vlc
 rpi-connect
-rpi-imager
+rpi-imager libopengl0 # opengl에 트래킹 않는 의존성이 있었음.
 # labwc
 squeekboard
 
